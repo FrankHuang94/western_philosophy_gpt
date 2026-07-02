@@ -183,6 +183,26 @@
       "criticized_by": ["经验主义", "康德哲学"]
     },
     {
+      "name": "近代自然哲学",
+      "aliases": ["Early modern natural philosophy"],
+      "period": "16-18世纪",
+      "core_claims": ["以数学化、机械论和实验观察重构自然解释", "重新安排空间、时间、物体、运动和神学之间的关系"],
+      "representatives": ["牛顿", "克拉克", "莱布尼茨"],
+      "influences": ["启蒙运动", "科学哲学"],
+      "criticizes": ["经院哲学"],
+      "criticized_by": ["经验主义", "康德哲学"]
+    },
+    {
+      "name": "社会契约论",
+      "aliases": ["Social contract theory"],
+      "period": "17-18世纪",
+      "core_claims": ["政治权威的正当性需要通过自然状态、同意、契约或公共意志来说明"],
+      "representatives": ["霍布斯", "洛克", "卢梭"],
+      "influences": ["法国启蒙运动", "当代政治哲学"],
+      "criticizes": ["君权神授"],
+      "criticized_by": ["社群主义", "马克思主义"]
+    },
+    {
       "name": "经验主义",
       "aliases": ["Empiricism", "休谟经验论"],
       "period": "17-18世纪",

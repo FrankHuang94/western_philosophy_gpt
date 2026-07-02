@@ -210,6 +210,24 @@
       "core_concepts": ["单子", "前定和谐", "充足理由律"]
     },
     {
+      "name": "牛顿",
+      "aliases": ["Isaac Newton"],
+      "birth_death": "1642-1727",
+      "schools": ["近代自然哲学"],
+      "teachers": [],
+      "works": ["自然哲学的数学原理", "光学"],
+      "core_concepts": ["绝对空间", "绝对时间", "万有引力"]
+    },
+    {
+      "name": "克拉克",
+      "aliases": ["Samuel Clarke"],
+      "birth_death": "1675-1729",
+      "schools": ["近代自然哲学"],
+      "teachers": [],
+      "works": ["莱布尼茨-克拉克通信"],
+      "core_concepts": ["牛顿主义神学", "绝对空间"]
+    },
+    {
       "name": "霍布斯",
       "aliases": ["Thomas Hobbes"],
       "birth_death": "1588-1679",
