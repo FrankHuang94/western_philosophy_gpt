@@ -804,6 +804,15 @@
       "core_concepts": ["能指", "所指", "符号任意性", "共时与历时"]
     },
     {
+      "name": "列维-斯特劳斯",
+      "aliases": ["Claude Levi-Strauss"],
+      "birth_death": "1908-2009",
+      "schools": ["结构主义"],
+      "teachers": [],
+      "works": ["野性的思维", "神话学"],
+      "core_concepts": ["结构主义人类学", "二元对立", "神话结构", "亲属关系"]
+    },
+    {
       "name": "福柯",
       "aliases": ["Michel Foucault"],
       "birth_death": "1926-1984",
@@ -820,6 +829,15 @@
       "teachers": [],
       "works": ["论文字学", "书写与差异"],
       "core_concepts": ["解构", "延异", "在场形而上学批判"]
+    },
+    {
+      "name": "拉康",
+      "aliases": ["Jacques Lacan"],
+      "birth_death": "1901-1981",
+      "schools": ["结构主义", "后结构主义"],
+      "teachers": [],
+      "works": ["文集", "精神分析的四个基本概念"],
+      "core_concepts": ["镜像阶段", "能指链", "象征界", "无意识像语言一样结构"]
     },
     {
       "name": "利奥塔",

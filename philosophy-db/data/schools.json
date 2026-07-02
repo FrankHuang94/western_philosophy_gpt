@@ -423,6 +423,16 @@
       "criticized_by": ["分析哲学", "逻辑实证主义", "实证主义"]
     },
     {
+      "name": "主体中心主义",
+      "aliases": ["Subject-centered philosophy"],
+      "period": "近代以来",
+      "core_claims": ["以自足、透明或奠基性的主体作为知识、意义和历史解释的中心"],
+      "representatives": [],
+      "influences": ["存在主义"],
+      "criticizes": [],
+      "criticized_by": ["结构主义", "后结构主义", "拉康"]
+    },
+    {
       "name": "分析哲学",
       "aliases": ["Analytic philosophy"],
       "period": "19世纪末起",
@@ -547,7 +557,7 @@
       "aliases": ["Structuralism"],
       "period": "20世纪中期",
       "core_claims": ["文化、语言、神话和主体可由深层关系结构解释", "结构优先于孤立个体意识"],
-      "representatives": ["索绪尔"],
+      "representatives": ["索绪尔", "列维-斯特劳斯", "拉康"],
       "influences": ["后结构主义"],
       "criticizes": ["主体中心主义"],
       "criticized_by": ["后结构主义"]
@@ -557,7 +567,7 @@
       "aliases": ["Post-structuralism"],
       "period": "20世纪后期",
       "core_claims": ["结构不是静态封闭系统，而是在话语、权力、差异和历史中生成", "怀疑稳定中心和最终意义"],
-      "representatives": ["福柯", "德里达"],
+      "representatives": ["福柯", "德里达", "拉康"],
       "influences": ["后现代主义", "文化理论"],
       "criticizes": ["结构主义"],
       "criticized_by": ["分析哲学"]
