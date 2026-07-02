@@ -372,6 +372,24 @@
       "core_concepts": ["先验综合判断", "范畴", "物自体", "自律", "公开运用理性"]
     },
     {
+      "name": "费希特",
+      "aliases": ["Johann Gottlieb Fichte"],
+      "birth_death": "1762-1814",
+      "schools": ["德国唯心主义"],
+      "teachers": ["康德"],
+      "works": ["全部知识学的基础"],
+      "core_concepts": ["自我设定", "非我", "知识学", "主体唯心论"]
+    },
+    {
+      "name": "谢林",
+      "aliases": ["Friedrich Wilhelm Joseph Schelling"],
+      "birth_death": "1775-1854",
+      "schools": ["德国唯心主义"],
+      "teachers": [],
+      "works": ["自然哲学观念", "先验唯心论体系"],
+      "core_concepts": ["自然哲学", "同一哲学", "艺术直观"]
+    },
+    {
       "name": "黑格尔",
       "aliases": ["G. W. F. Hegel", "Hegel"],
       "birth_death": "1770-1831",
