@@ -217,7 +217,7 @@
       "aliases": ["French Enlightenment"],
       "period": "18世纪",
       "core_claims": ["用理性批判教权、专制与成见", "推动宽容、法治、知识公开和政治改革"],
-      "representatives": ["伏尔泰", "孟德斯鸠", "狄德罗", "卢梭"],
+      "representatives": ["伏尔泰", "孟德斯鸠", "狄德罗", "达朗贝尔", "卢梭", "孔狄亚克", "爱尔维修"],
       "influences": ["法国大革命思想", "现代自由主义", "批判理论"],
       "criticizes": ["教权主义", "专制主义"],
       "criticized_by": ["卢梭文明批判", "批判理论", "后现代主义"]
@@ -227,7 +227,7 @@
       "aliases": ["Scottish Enlightenment"],
       "period": "18世纪",
       "core_claims": ["以经验观察、人性科学、道德情感和商业社会分析理解现代秩序"],
-      "representatives": ["休谟", "亚当·斯密"],
+      "representatives": ["休谟", "亚当·斯密", "弗格森"],
       "influences": ["社会科学", "自由主义", "实用主义"],
       "criticizes": ["独断形而上学"],
       "criticized_by": ["康德哲学"]
@@ -237,10 +237,20 @@
       "aliases": ["German Enlightenment"],
       "period": "18世纪",
       "core_claims": ["强调理性成熟、公开讨论、宗教宽容与教育启蒙"],
-      "representatives": ["康德"],
+      "representatives": ["莱辛", "门德尔松", "康德"],
       "influences": ["德国唯心主义"],
       "criticizes": ["监护状态"],
       "criticized_by": ["德国唯心主义", "浪漫主义"]
+    },
+    {
+      "name": "感觉论",
+      "aliases": ["Sensationalism"],
+      "period": "18世纪",
+      "core_claims": ["一切心理能力和观念可由感觉经验转化、组合和分析而来"],
+      "representatives": ["孔狄亚克", "爱尔维修"],
+      "influences": ["法国启蒙运动", "唯物主义"],
+      "criticizes": ["天赋观念说", "理性主义"],
+      "criticized_by": ["康德哲学", "德国唯心主义"]
     },
     {
       "name": "康德哲学",

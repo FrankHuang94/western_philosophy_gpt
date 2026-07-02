@@ -291,6 +291,15 @@
       "core_concepts": ["知识民主化", "唯物主义"]
     },
     {
+      "name": "达朗贝尔",
+      "aliases": ["Jean le Rond d'Alembert"],
+      "birth_death": "1717-1783",
+      "schools": ["法国启蒙运动"],
+      "teachers": [],
+      "works": ["百科全书序言"],
+      "core_concepts": ["知识分类", "百科全书方法"]
+    },
+    {
       "name": "卢梭",
       "aliases": ["Jean-Jacques Rousseau", "Rousseau"],
       "birth_death": "1712-1778",
@@ -300,6 +309,24 @@
       "core_concepts": ["公意", "自然状态", "文明批判"]
     },
     {
+      "name": "孔狄亚克",
+      "aliases": ["Etienne Bonnot de Condillac"],
+      "birth_death": "1714-1780",
+      "schools": ["法国启蒙运动", "感觉论"],
+      "teachers": [],
+      "works": ["感觉论"],
+      "core_concepts": ["感觉论", "观念分析", "语言与认识"]
+    },
+    {
+      "name": "爱尔维修",
+      "aliases": ["Claude Adrien Helvetius"],
+      "birth_death": "1715-1771",
+      "schools": ["法国启蒙运动", "唯物主义"],
+      "teachers": [],
+      "works": ["论精神", "论人"],
+      "core_concepts": ["利益", "教育决定论", "感觉主义伦理"]
+    },
+    {
       "name": "亚当·斯密",
       "aliases": ["Adam Smith"],
       "birth_death": "1723-1790",
@@ -307,6 +334,33 @@
       "teachers": [],
       "works": ["道德情感论", "国富论"],
       "core_concepts": ["同情", "旁观者", "商业社会"]
+    },
+    {
+      "name": "弗格森",
+      "aliases": ["Adam Ferguson"],
+      "birth_death": "1723-1816",
+      "schools": ["苏格兰启蒙运动"],
+      "teachers": [],
+      "works": ["市民社会史论"],
+      "core_concepts": ["市民社会", "意外后果", "商业社会批判"]
+    },
+    {
+      "name": "莱辛",
+      "aliases": ["Gotthold Ephraim Lessing"],
+      "birth_death": "1729-1781",
+      "schools": ["德国启蒙运动"],
+      "teachers": [],
+      "works": ["智者纳坦", "论人类教育"],
+      "core_concepts": ["宗教宽容", "启蒙教育", "理性信仰"]
+    },
+    {
+      "name": "门德尔松",
+      "aliases": ["Moses Mendelssohn"],
+      "birth_death": "1729-1786",
+      "schools": ["德国启蒙运动"],
+      "teachers": [],
+      "works": ["耶路撒冷", "论启蒙问题"],
+      "core_concepts": ["宗教宽容", "犹太启蒙", "启蒙与文化"]
     },
     {
       "name": "康德",
