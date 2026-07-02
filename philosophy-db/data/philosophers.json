@@ -714,6 +714,42 @@
       "core_concepts": ["刚性指称词", "必然后验", "可能世界语义"]
     },
     {
+      "name": "皮尔士",
+      "aliases": ["Charles Sanders Peirce", "C. S. Peirce"],
+      "birth_death": "1839-1914",
+      "schools": ["实用主义"],
+      "teachers": [],
+      "works": ["如何使我们的观念清楚", "信念的固定"],
+      "core_concepts": ["实用主义准则", "探究共同体", "符号三分法", "可错论"]
+    },
+    {
+      "name": "詹姆斯",
+      "aliases": ["William James"],
+      "birth_death": "1842-1910",
+      "schools": ["实用主义"],
+      "teachers": [],
+      "works": ["实用主义", "信仰的意志", "宗教经验之种种"],
+      "core_concepts": ["真理的现金价值", "激进经验主义", "信仰意志"]
+    },
+    {
+      "name": "杜威",
+      "aliases": ["John Dewey"],
+      "birth_death": "1859-1952",
+      "schools": ["实用主义"],
+      "teachers": [],
+      "works": ["民主与教育", "经验与自然", "公众及其问题"],
+      "core_concepts": ["工具主义", "经验", "教育即生长", "民主生活"]
+    },
+    {
+      "name": "罗蒂",
+      "aliases": ["Richard Rorty"],
+      "birth_death": "1931-2007",
+      "schools": ["新实用主义"],
+      "teachers": [],
+      "works": ["哲学与自然之镜", "偶然、反讽与团结"],
+      "core_concepts": ["镜式心灵批判", "反基础主义", "文化政治", "新实用主义"]
+    },
+    {
       "name": "霍克海默",
       "aliases": ["Max Horkheimer"],
       "birth_death": "1895-1973",

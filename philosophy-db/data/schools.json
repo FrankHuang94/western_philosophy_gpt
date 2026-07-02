@@ -507,10 +507,30 @@
       "aliases": ["Pragmatism"],
       "period": "19世纪末起",
       "core_claims": ["观念意义与实践后果相关", "知识、真理和民主生活应在行动中检验"],
-      "representatives": [],
+      "representatives": ["皮尔士", "詹姆斯", "杜威"],
       "influences": ["新实用主义", "教育哲学"],
       "criticizes": ["笛卡尔主义认识论"],
       "criticized_by": ["分析哲学"]
+    },
+    {
+      "name": "新实用主义",
+      "aliases": ["Neo-pragmatism"],
+      "period": "20世纪后期起",
+      "core_claims": ["反对把知识理解为心灵镜像世界", "把哲学理解为文化对话、词汇转换和社会希望的实践"],
+      "representatives": ["罗蒂"],
+      "influences": ["后分析哲学", "政治哲学"],
+      "criticizes": ["分析哲学", "基础主义认识论"],
+      "criticized_by": ["分析哲学", "批判理论"]
+    },
+    {
+      "name": "笛卡尔主义认识论",
+      "aliases": ["Cartesian epistemology"],
+      "period": "近代以来",
+      "core_claims": ["以主体内部确定性和表象为知识基础", "倾向于把认识理解为心灵对外部世界的准确再现"],
+      "representatives": ["笛卡尔"],
+      "influences": ["理性主义"],
+      "criticizes": [],
+      "criticized_by": ["实用主义", "新实用主义"]
     },
     {
       "name": "批判理论",
