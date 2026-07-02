@@ -133,6 +133,16 @@
       "criticized_by": ["近代哲学"]
     },
     {
+      "name": "中世纪哲学",
+      "aliases": ["Medieval philosophy"],
+      "period": "约5-14世纪",
+      "core_claims": ["在基督教、古希腊哲学和大学辩论制度之间重组理性与信仰关系", "围绕创造、灵魂、恶、普遍者和神存在论证展开"],
+      "representatives": ["奥古斯丁", "安瑟尔谟", "阿奎那", "奥卡姆"],
+      "influences": ["近代哲学", "自然法传统"],
+      "criticizes": ["古代异教哲学"],
+      "criticized_by": ["理性主义", "经验主义", "唯名论"]
+    },
+    {
       "name": "经院哲学",
       "aliases": ["Scholasticism"],
       "period": "11-14世纪",
@@ -141,6 +151,16 @@
       "influences": ["近代哲学"],
       "criticizes": [],
       "criticized_by": ["理性主义", "经验主义", "唯名论"]
+    },
+    {
+      "name": "实在论",
+      "aliases": ["Realism about universals"],
+      "period": "古代至中世纪",
+      "core_claims": ["普遍者具有某种不依赖个别名称的实在性，或存在于事物之前、之中，或作为神圣理智中的形式"],
+      "representatives": ["柏拉图", "阿奎那"],
+      "influences": ["经院哲学"],
+      "criticizes": ["唯名论"],
+      "criticized_by": ["唯名论"]
     },
     {
       "name": "唯名论",

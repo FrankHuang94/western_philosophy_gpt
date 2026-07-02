@@ -129,6 +129,33 @@
       "core_concepts": ["恶的缺乏说", "内在时间意识", "恩典"]
     },
     {
+      "name": "波爱修斯",
+      "aliases": ["Boethius"],
+      "birth_death": "约480-524",
+      "schools": ["中世纪哲学"],
+      "teachers": [],
+      "works": ["哲学的慰藉"],
+      "core_concepts": ["命运与天意", "古典哲学传承"]
+    },
+    {
+      "name": "安瑟尔谟",
+      "aliases": ["Anselm of Canterbury"],
+      "birth_death": "1033-1109",
+      "schools": ["经院哲学"],
+      "teachers": [],
+      "works": ["宣讲篇", "上帝为何成为人"],
+      "core_concepts": ["本体论证明", "信仰寻求理解"]
+    },
+    {
+      "name": "阿伯拉尔",
+      "aliases": ["Peter Abelard"],
+      "birth_death": "1079-1142",
+      "schools": ["经院哲学"],
+      "teachers": [],
+      "works": ["是与否"],
+      "core_concepts": ["辩难法", "概念论", "意向伦理"]
+    },
+    {
       "name": "阿奎那",
       "aliases": ["Thomas Aquinas"],
       "birth_death": "约1225-1274",
@@ -136,6 +163,15 @@
       "teachers": [],
       "works": ["神学大全", "反异教大全"],
       "core_concepts": ["五路论证", "自然法", "信仰与理性"]
+    },
+    {
+      "name": "司各脱",
+      "aliases": ["John Duns Scotus"],
+      "birth_death": "约1266-1308",
+      "schools": ["经院哲学"],
+      "teachers": [],
+      "works": ["巴黎讲稿"],
+      "core_concepts": ["存在单义性", "个体性", "意志优先"]
     },
     {
       "name": "奥卡姆",
