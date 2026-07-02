@@ -471,6 +471,51 @@
       "core_concepts": ["人本学唯物主义", "宗教异化", "感性对象性"]
     },
     {
+      "name": "孔德",
+      "aliases": ["Auguste Comte", "Comte"],
+      "birth_death": "1798-1857",
+      "schools": ["实证主义"],
+      "teachers": [],
+      "works": ["实证哲学教程", "实证政治体系"],
+      "core_concepts": ["三阶段论", "实证科学", "社会物理学", "社会学"]
+    },
+    {
+      "name": "边沁",
+      "aliases": ["Jeremy Bentham", "Bentham"],
+      "birth_death": "1748-1832",
+      "schools": ["功利主义"],
+      "teachers": [],
+      "works": ["道德与立法原则导论"],
+      "core_concepts": ["最大幸福原则", "快乐计算", "效用", "法律改革"]
+    },
+    {
+      "name": "密尔",
+      "aliases": ["John Stuart Mill", "J. S. Mill"],
+      "birth_death": "1806-1873",
+      "schools": ["功利主义", "自由主义"],
+      "teachers": ["边沁"],
+      "works": ["功利主义", "论自由", "逻辑体系"],
+      "core_concepts": ["高级快乐", "低级快乐", "伤害原则", "个性发展"]
+    },
+    {
+      "name": "柯亨",
+      "aliases": ["Hermann Cohen"],
+      "birth_death": "1842-1918",
+      "schools": ["新康德主义"],
+      "teachers": [],
+      "works": ["康德的经验理论", "纯粹认识逻辑"],
+      "core_concepts": ["马堡学派", "纯粹认识", "科学经验条件"]
+    },
+    {
+      "name": "卡西尔",
+      "aliases": ["Ernst Cassirer"],
+      "birth_death": "1874-1945",
+      "schools": ["新康德主义"],
+      "teachers": ["柯亨"],
+      "works": ["符号形式哲学", "启蒙哲学"],
+      "core_concepts": ["符号形式", "文化哲学", "功能概念"]
+    },
+    {
       "name": "胡塞尔",
       "aliases": ["Edmund Husserl"],
       "birth_death": "1859-1938",

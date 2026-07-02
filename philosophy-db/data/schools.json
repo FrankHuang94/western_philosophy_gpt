@@ -323,6 +323,26 @@
       "criticized_by": ["马克思主义"]
     },
     {
+      "name": "实证主义",
+      "aliases": ["Positivism"],
+      "period": "19世纪",
+      "core_claims": ["知识应限于可观察事实和科学规律", "社会研究应仿照自然科学建立经验和规律导向的方法"],
+      "representatives": ["孔德"],
+      "influences": ["社会学", "逻辑实证主义", "科学哲学"],
+      "criticizes": ["德国唯心主义", "传统形而上学"],
+      "criticized_by": ["新康德主义", "现象学", "批判理论"]
+    },
+    {
+      "name": "新康德主义",
+      "aliases": ["Neo-Kantianism"],
+      "period": "19世纪后期-20世纪初",
+      "core_claims": ["回到康德的认识条件批判以反对黑格尔思辨体系和粗糙自然主义", "把科学、伦理和文化形式理解为规范条件的建构"],
+      "representatives": ["柯亨", "卡西尔"],
+      "influences": ["现象学", "文化哲学", "科学哲学"],
+      "criticizes": ["德国唯心主义", "实证主义"],
+      "criticized_by": ["现象学", "存在主义"]
+    },
+    {
       "name": "现象学",
       "aliases": ["Phenomenology"],
       "period": "20世纪初起",
@@ -467,7 +487,7 @@
       "aliases": ["Utilitarianism"],
       "period": "18世纪末-19世纪",
       "core_claims": ["行为和制度应按幸福、快乐或效用最大化评价"],
-      "representatives": [],
+      "representatives": ["边沁", "密尔"],
       "influences": ["当代政治哲学", "经济学伦理"],
       "criticizes": [],
       "criticized_by": ["当代政治哲学"]
