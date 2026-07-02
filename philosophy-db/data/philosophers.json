@@ -606,6 +606,15 @@
       "core_concepts": ["摹状词理论", "逻辑原子主义", "罗素悖论"]
     },
     {
+      "name": "摩尔",
+      "aliases": ["G. E. Moore"],
+      "birth_death": "1873-1958",
+      "schools": ["分析哲学", "常识哲学"],
+      "teachers": [],
+      "works": ["伦理学原理", "为常识辩护", "外在世界的证明"],
+      "core_concepts": ["常识哲学", "开放问题论证", "外在世界证明"]
+    },
+    {
       "name": "维特根斯坦",
       "aliases": ["Ludwig Wittgenstein"],
       "birth_death": "1889-1951",
@@ -613,6 +622,42 @@
       "teachers": ["罗素"],
       "works": ["逻辑哲学论", "哲学研究"],
       "core_concepts": ["图像论", "语言游戏", "家族相似"]
+    },
+    {
+      "name": "石里克",
+      "aliases": ["Moritz Schlick"],
+      "birth_death": "1882-1936",
+      "schools": ["逻辑实证主义"],
+      "teachers": [],
+      "works": ["普通认识论", "伦理学问题"],
+      "core_concepts": ["维也纳学派", "可证实性", "科学世界观"]
+    },
+    {
+      "name": "卡尔纳普",
+      "aliases": ["Rudolf Carnap"],
+      "birth_death": "1891-1970",
+      "schools": ["逻辑实证主义"],
+      "teachers": [],
+      "works": ["世界的逻辑构造", "通过语言的逻辑分析克服形而上学", "意义与必然性"],
+      "core_concepts": ["逻辑句法", "可证实性", "语言框架"]
+    },
+    {
+      "name": "奥斯汀",
+      "aliases": ["J. L. Austin"],
+      "birth_death": "1911-1960",
+      "schools": ["日常语言哲学"],
+      "teachers": [],
+      "works": ["如何以言行事", "感觉与可感物"],
+      "core_concepts": ["言语行为", "施为句", "以言行事"]
+    },
+    {
+      "name": "塞尔",
+      "aliases": ["John Searle"],
+      "birth_death": "1932-2025",
+      "schools": ["日常语言哲学", "语言哲学"],
+      "teachers": ["奥斯汀"],
+      "works": ["言语行为", "意向性"],
+      "core_concepts": ["言语行为分类", "制度事实", "集体意向性"]
     },
     {
       "name": "奎因",
@@ -640,6 +685,33 @@
       "teachers": [],
       "works": ["科学革命的结构"],
       "core_concepts": ["范式", "常规科学", "不可通约性"]
+    },
+    {
+      "name": "拉卡托斯",
+      "aliases": ["Imre Lakatos"],
+      "birth_death": "1922-1974",
+      "schools": ["科学哲学"],
+      "teachers": ["波普尔"],
+      "works": ["科学研究纲领方法论"],
+      "core_concepts": ["研究纲领", "硬核", "保护带", "进步问题转换"]
+    },
+    {
+      "name": "费耶阿本德",
+      "aliases": ["Paul Feyerabend"],
+      "birth_death": "1924-1994",
+      "schools": ["科学哲学"],
+      "teachers": [],
+      "works": ["反对方法"],
+      "core_concepts": ["方法论无政府主义", "反规则主义", "理论多元"]
+    },
+    {
+      "name": "克里普克",
+      "aliases": ["Saul Kripke"],
+      "birth_death": "1940-2022",
+      "schools": ["后分析哲学", "语言哲学"],
+      "teachers": [],
+      "works": ["命名与必然性"],
+      "core_concepts": ["刚性指称词", "必然后验", "可能世界语义"]
     },
     {
       "name": "霍克海默",

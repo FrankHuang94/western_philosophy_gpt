@@ -413,11 +413,21 @@
       "criticized_by": ["现象学", "解释学"]
     },
     {
+      "name": "传统形而上学",
+      "aliases": ["Traditional metaphysics"],
+      "period": "古代至近代持续存在的哲学传统",
+      "core_claims": ["通过实体、本质、原因、灵魂、上帝或终极实在解释世界结构", "常被现代逻辑分析、实证主义和现象学作为批判对象"],
+      "representatives": [],
+      "influences": ["德国唯心主义", "分析哲学", "现象学"],
+      "criticizes": [],
+      "criticized_by": ["分析哲学", "逻辑实证主义", "实证主义"]
+    },
+    {
       "name": "分析哲学",
       "aliases": ["Analytic philosophy"],
       "period": "19世纪末起",
       "core_claims": ["通过逻辑、语言分析和论证澄清哲学问题", "警惕含混的形而上学体系"],
-      "representatives": ["弗雷格", "罗素", "维特根斯坦"],
+      "representatives": ["弗雷格", "罗素", "摩尔", "维特根斯坦"],
       "influences": ["语言哲学", "科学哲学", "当代政治哲学"],
       "criticizes": ["德国唯心主义", "传统形而上学"],
       "criticized_by": ["后分析哲学", "实用主义"]
@@ -427,7 +437,7 @@
       "aliases": ["Logical Positivism"],
       "period": "20世纪上半叶",
       "core_claims": ["以逻辑分析和经验可证实性区分有意义命题", "排斥传统形而上学命题"],
-      "representatives": ["维特根斯坦"],
+      "representatives": ["石里克", "卡尔纳普"],
       "influences": ["科学哲学", "后分析哲学"],
       "criticizes": ["传统形而上学"],
       "criticized_by": ["维特根斯坦后期哲学", "波普尔科学哲学", "后分析哲学"]
@@ -453,11 +463,31 @@
       "criticized_by": []
     },
     {
+      "name": "日常语言哲学",
+      "aliases": ["Ordinary language philosophy"],
+      "period": "20世纪中期",
+      "core_claims": ["哲学问题常源于脱离日常使用的语言误解", "言语行为和使用语境构成意义分析的核心"],
+      "representatives": ["奥斯汀", "塞尔"],
+      "influences": ["语言哲学", "社会本体论"],
+      "criticizes": ["维特根斯坦前期哲学", "逻辑实证主义"],
+      "criticized_by": []
+    },
+    {
+      "name": "常识哲学",
+      "aliases": ["Common sense philosophy"],
+      "period": "20世纪初",
+      "core_claims": ["以普通常识命题反驳过度抽象的怀疑论和唯心论", "哲学分析应尊重日常确定性"],
+      "representatives": ["摩尔"],
+      "influences": ["分析哲学"],
+      "criticizes": ["德国唯心主义", "怀疑论"],
+      "criticized_by": []
+    },
+    {
       "name": "科学哲学",
       "aliases": ["Philosophy of science"],
       "period": "20世纪",
       "core_claims": ["分析科学理论、证据、解释、革命和理性变化的结构"],
-      "representatives": ["波普尔", "库恩"],
+      "representatives": ["波普尔", "库恩", "拉卡托斯", "费耶阿本德"],
       "influences": ["社会科学方法论"],
       "criticizes": ["逻辑实证主义"],
       "criticized_by": []
@@ -467,7 +497,7 @@
       "aliases": ["Post-analytic philosophy"],
       "period": "20世纪中后期",
       "core_claims": ["反思分析哲学内部的经验主义、指称理论和语言观预设"],
-      "representatives": ["奎因"],
+      "representatives": ["奎因", "克里普克"],
       "influences": ["新实用主义"],
       "criticizes": ["逻辑实证主义"],
       "criticized_by": []
