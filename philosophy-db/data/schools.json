@@ -1,6 +1,326 @@
 {
   "schema_version": "0.1.0",
   "description": "结构化流派数据：起止时间、核心主张、代表人物、后续影响、批判关系。",
-  "schools": []
+  "schools": [
+    {
+      "name": "古希腊哲学",
+      "aliases": ["古代哲学"],
+      "period": "约前6世纪-公元3世纪",
+      "core_claims": ["从神话解释转向理性论证", "围绕本原、存在、德性、城邦生活展开系统思考"],
+      "representatives": ["柏拉图", "亚里士多德"],
+      "influences": ["教父哲学", "经院哲学", "德国唯心主义"],
+      "criticizes": [],
+      "criticized_by": ["基督教神学", "近代自然科学"]
+    },
+    {
+      "name": "教父哲学",
+      "aliases": ["Patristic philosophy"],
+      "period": "2-8世纪",
+      "core_claims": ["用希腊哲学资源阐释基督教信仰", "强调创造、恩典、内在灵魂与历史救赎"],
+      "representatives": ["奥古斯丁"],
+      "influences": ["经院哲学"],
+      "criticizes": ["古代异教哲学"],
+      "criticized_by": ["近代哲学"]
+    },
+    {
+      "name": "经院哲学",
+      "aliases": ["Scholasticism"],
+      "period": "11-14世纪",
+      "core_claims": ["以大学制度、辩难法和亚里士多德传统组织神学与哲学", "尝试协调信仰与理性"],
+      "representatives": ["阿奎那", "奥卡姆"],
+      "influences": ["近代哲学"],
+      "criticizes": [],
+      "criticized_by": ["理性主义", "经验主义", "唯名论"]
+    },
+    {
+      "name": "唯名论",
+      "aliases": ["Nominalism"],
+      "period": "中世纪晚期",
+      "core_claims": ["普遍概念不是独立实体，而是名称、符号或心灵中的概念"],
+      "representatives": ["奥卡姆"],
+      "influences": ["经验主义", "近代科学方法"],
+      "criticizes": ["实在论"],
+      "criticized_by": []
+    },
+    {
+      "name": "理性主义",
+      "aliases": ["Rationalism"],
+      "period": "17世纪",
+      "core_claims": ["理性、先天原则和演绎结构是可靠知识的重要来源", "数学式清晰性可作为哲学方法范型"],
+      "representatives": ["笛卡尔", "斯宾诺莎", "莱布尼茨"],
+      "influences": ["德国唯心主义"],
+      "criticizes": ["经院哲学"],
+      "criticized_by": ["经验主义", "康德哲学"]
+    },
+    {
+      "name": "经验主义",
+      "aliases": ["Empiricism", "休谟经验论"],
+      "period": "17-18世纪",
+      "core_claims": ["知识内容主要源自经验", "对实体、因果和形而上学推论保持怀疑"],
+      "representatives": ["洛克", "贝克莱", "休谟"],
+      "influences": ["苏格兰启蒙运动", "康德哲学", "逻辑实证主义"],
+      "criticizes": ["理性主义"],
+      "criticized_by": ["康德哲学"]
+    },
+    {
+      "name": "法国启蒙运动",
+      "aliases": ["French Enlightenment"],
+      "period": "18世纪",
+      "core_claims": ["用理性批判教权、专制与成见", "推动宽容、法治、知识公开和政治改革"],
+      "representatives": ["伏尔泰", "孟德斯鸠", "狄德罗", "卢梭"],
+      "influences": ["法国大革命思想", "现代自由主义", "批判理论"],
+      "criticizes": ["教权主义", "专制主义"],
+      "criticized_by": ["卢梭文明批判", "批判理论", "后现代主义"]
+    },
+    {
+      "name": "苏格兰启蒙运动",
+      "aliases": ["Scottish Enlightenment"],
+      "period": "18世纪",
+      "core_claims": ["以经验观察、人性科学、道德情感和商业社会分析理解现代秩序"],
+      "representatives": ["休谟", "亚当·斯密"],
+      "influences": ["社会科学", "自由主义", "实用主义"],
+      "criticizes": ["独断形而上学"],
+      "criticized_by": ["康德哲学"]
+    },
+    {
+      "name": "德国启蒙运动",
+      "aliases": ["German Enlightenment"],
+      "period": "18世纪",
+      "core_claims": ["强调理性成熟、公开讨论、宗教宽容与教育启蒙"],
+      "representatives": ["康德"],
+      "influences": ["德国唯心主义"],
+      "criticizes": ["监护状态"],
+      "criticized_by": ["德国唯心主义", "浪漫主义"]
+    },
+    {
+      "name": "康德哲学",
+      "aliases": ["批判哲学", "Kantian philosophy"],
+      "period": "18世纪后期",
+      "core_claims": ["知识由感性材料与先天形式、范畴共同构成", "实践理性以自律和道德法则为核心"],
+      "representatives": ["康德"],
+      "influences": ["德国唯心主义", "新康德主义", "现象学"],
+      "criticizes": ["经验主义", "理性主义"],
+      "criticized_by": ["德国唯心主义", "黑格尔哲学"]
+    },
+    {
+      "name": "德国唯心主义",
+      "aliases": ["German Idealism", "黑格尔哲学"],
+      "period": "18世纪末-19世纪前期",
+      "core_claims": ["主体、理性、历史和自由构成哲学体系的核心问题", "试图克服康德物自体与现象的分裂"],
+      "representatives": ["康德", "黑格尔"],
+      "influences": ["马克思主义", "存在主义先驱", "批判理论"],
+      "criticizes": ["康德哲学"],
+      "criticized_by": ["存在主义先驱", "马克思主义", "批判理论"]
+    },
+    {
+      "name": "存在主义先驱",
+      "aliases": ["Existentialism precursors"],
+      "period": "19世纪",
+      "core_claims": ["从具体个体、意志、焦虑、价值创造和生存选择出发反对封闭体系"],
+      "representatives": ["克尔凯郭尔", "尼采"],
+      "influences": ["存在主义", "后结构主义"],
+      "criticizes": ["德国唯心主义", "理性主义传统", "基督教道德"],
+      "criticized_by": []
+    },
+    {
+      "name": "马克思主义",
+      "aliases": ["Marxism"],
+      "period": "19世纪中后期起",
+      "core_claims": ["社会存在与生产关系解释历史变迁", "哲学应进入实践和社会批判"],
+      "representatives": ["马克思"],
+      "influences": ["批判理论", "政治哲学", "后结构主义"],
+      "criticizes": ["德国唯心主义", "费尔巴哈人本学唯物主义"],
+      "criticized_by": ["自由主义", "后现代主义"]
+    },
+    {
+      "name": "费尔巴哈人本学唯物主义",
+      "aliases": ["Feuerbachian humanist materialism"],
+      "period": "19世纪中期",
+      "core_claims": ["以感性的人替代抽象精神，批判宗教神学是人的本质投射"],
+      "representatives": ["费尔巴哈"],
+      "influences": ["马克思主义"],
+      "criticizes": ["德国唯心主义", "教父哲学"],
+      "criticized_by": ["马克思主义"]
+    },
+    {
+      "name": "现象学",
+      "aliases": ["Phenomenology"],
+      "period": "20世纪初起",
+      "core_claims": ["回到经验如何显现本身", "通过意向性和还原分析意识与世界的关联"],
+      "representatives": ["胡塞尔", "海德格尔"],
+      "influences": ["存在主义", "解释学", "身体现象学"],
+      "criticizes": ["自然主义", "心理主义"],
+      "criticized_by": ["后结构主义"]
+    },
+    {
+      "name": "存在主义",
+      "aliases": ["Existentialism"],
+      "period": "20世纪",
+      "core_claims": ["人的存在先于固定本质", "自由、责任、处境和荒诞构成现代主体的核心经验"],
+      "representatives": ["萨特", "波伏娃"],
+      "influences": ["女性主义哲学", "政治哲学"],
+      "criticizes": ["体系哲学", "本质主义"],
+      "criticized_by": ["结构主义", "后结构主义"]
+    },
+    {
+      "name": "分析哲学",
+      "aliases": ["Analytic philosophy"],
+      "period": "19世纪末起",
+      "core_claims": ["通过逻辑、语言分析和论证澄清哲学问题", "警惕含混的形而上学体系"],
+      "representatives": ["弗雷格", "罗素", "维特根斯坦"],
+      "influences": ["语言哲学", "科学哲学", "当代政治哲学"],
+      "criticizes": ["德国唯心主义", "传统形而上学"],
+      "criticized_by": ["后分析哲学", "实用主义"]
+    },
+    {
+      "name": "逻辑实证主义",
+      "aliases": ["Logical Positivism"],
+      "period": "20世纪上半叶",
+      "core_claims": ["以逻辑分析和经验可证实性区分有意义命题", "排斥传统形而上学命题"],
+      "representatives": ["维特根斯坦"],
+      "influences": ["科学哲学", "后分析哲学"],
+      "criticizes": ["传统形而上学"],
+      "criticized_by": ["维特根斯坦后期哲学", "波普尔科学哲学", "后分析哲学"]
+    },
+    {
+      "name": "维特根斯坦前期哲学",
+      "aliases": ["Early Wittgenstein"],
+      "period": "1920年代",
+      "core_claims": ["语言以命题图像方式描画事实", "哲学任务是划定可说与不可说的界限"],
+      "representatives": ["维特根斯坦"],
+      "influences": ["逻辑实证主义"],
+      "criticizes": ["传统形而上学"],
+      "criticized_by": ["维特根斯坦后期哲学"]
+    },
+    {
+      "name": "维特根斯坦后期哲学",
+      "aliases": ["Later Wittgenstein"],
+      "period": "1930年代-1950年代",
+      "core_claims": ["意义在使用中形成", "语言游戏和生活形式替代单一逻辑图像模型"],
+      "representatives": ["维特根斯坦"],
+      "influences": ["日常语言哲学"],
+      "criticizes": ["维特根斯坦前期哲学"],
+      "criticized_by": []
+    },
+    {
+      "name": "科学哲学",
+      "aliases": ["Philosophy of science"],
+      "period": "20世纪",
+      "core_claims": ["分析科学理论、证据、解释、革命和理性变化的结构"],
+      "representatives": ["波普尔", "库恩"],
+      "influences": ["社会科学方法论"],
+      "criticizes": ["逻辑实证主义"],
+      "criticized_by": []
+    },
+    {
+      "name": "后分析哲学",
+      "aliases": ["Post-analytic philosophy"],
+      "period": "20世纪中后期",
+      "core_claims": ["反思分析哲学内部的经验主义、指称理论和语言观预设"],
+      "representatives": ["奎因"],
+      "influences": ["新实用主义"],
+      "criticizes": ["逻辑实证主义"],
+      "criticized_by": []
+    },
+    {
+      "name": "实用主义",
+      "aliases": ["Pragmatism"],
+      "period": "19世纪末起",
+      "core_claims": ["观念意义与实践后果相关", "知识、真理和民主生活应在行动中检验"],
+      "representatives": [],
+      "influences": ["新实用主义", "教育哲学"],
+      "criticizes": ["笛卡尔主义认识论"],
+      "criticized_by": ["分析哲学"]
+    },
+    {
+      "name": "批判理论",
+      "aliases": ["法兰克福学派", "Critical Theory"],
+      "period": "20世纪",
+      "core_claims": ["哲学与社会理论应批判支配、意识形态和工具理性", "启蒙理性自身也可能转化为统治形式"],
+      "representatives": ["霍克海默", "阿多诺", "哈贝马斯"],
+      "influences": ["社会理论", "文化研究", "政治哲学"],
+      "criticizes": ["法国启蒙运动", "工具理性", "资本主义文化工业"],
+      "criticized_by": ["哈贝马斯交往理性"]
+    },
+    {
+      "name": "结构主义",
+      "aliases": ["Structuralism"],
+      "period": "20世纪中期",
+      "core_claims": ["文化、语言、神话和主体可由深层关系结构解释", "结构优先于孤立个体意识"],
+      "representatives": ["索绪尔"],
+      "influences": ["后结构主义"],
+      "criticizes": ["主体中心主义"],
+      "criticized_by": ["后结构主义"]
+    },
+    {
+      "name": "后结构主义",
+      "aliases": ["Post-structuralism"],
+      "period": "20世纪后期",
+      "core_claims": ["结构不是静态封闭系统，而是在话语、权力、差异和历史中生成", "怀疑稳定中心和最终意义"],
+      "representatives": ["福柯", "德里达"],
+      "influences": ["后现代主义", "文化理论"],
+      "criticizes": ["结构主义"],
+      "criticized_by": ["分析哲学"]
+    },
+    {
+      "name": "后现代主义",
+      "aliases": ["Postmodernism"],
+      "period": "20世纪后期",
+      "core_claims": ["怀疑启蒙以来理性进步、科学统一和历史解放的大叙事", "强调差异、断裂、拟像和知识合法性的多元化"],
+      "representatives": ["利奥塔"],
+      "influences": ["文化研究", "政治理论"],
+      "criticizes": ["法国启蒙运动", "现代性元叙事"],
+      "criticized_by": ["分析哲学", "批判理论"]
+    },
+    {
+      "name": "当代政治哲学",
+      "aliases": ["Contemporary political philosophy"],
+      "period": "20世纪后期起",
+      "core_claims": ["围绕正义、权利、共同体、身份与承认重建规范政治理论"],
+      "representatives": ["罗尔斯", "诺齐克", "麦金太尔"],
+      "influences": ["法哲学", "公共政策伦理"],
+      "criticizes": ["功利主义"],
+      "criticized_by": ["自由至上主义", "社群主义", "女性主义哲学"]
+    },
+    {
+      "name": "功利主义",
+      "aliases": ["Utilitarianism"],
+      "period": "18世纪末-19世纪",
+      "core_claims": ["行为和制度应按幸福、快乐或效用最大化评价"],
+      "representatives": [],
+      "influences": ["当代政治哲学", "经济学伦理"],
+      "criticizes": [],
+      "criticized_by": ["当代政治哲学"]
+    },
+    {
+      "name": "自由至上主义",
+      "aliases": ["Libertarianism"],
+      "period": "20世纪后期起",
+      "core_claims": ["个人权利和持有正义优先于国家再分配目标"],
+      "representatives": ["诺齐克"],
+      "influences": ["当代政治哲学"],
+      "criticizes": ["当代政治哲学"],
+      "criticized_by": []
+    },
+    {
+      "name": "社群主义",
+      "aliases": ["Communitarianism"],
+      "period": "20世纪后期起",
+      "core_claims": ["自我总是嵌入传统、实践和共同体，不能被抽象为无负荷选择者"],
+      "representatives": ["麦金太尔"],
+      "influences": ["德性伦理", "政治哲学"],
+      "criticizes": ["当代政治哲学"],
+      "criticized_by": []
+    },
+    {
+      "name": "女性主义哲学",
+      "aliases": ["Feminist philosophy"],
+      "period": "20世纪中后期起",
+      "core_claims": ["分析性别、权力、身体、处境和知识生产中的支配结构"],
+      "representatives": ["波伏娃"],
+      "influences": ["政治哲学", "伦理学", "社会理论"],
+      "criticizes": ["本质主义", "父权制"],
+      "criticized_by": []
+    }
+  ]
 }
-

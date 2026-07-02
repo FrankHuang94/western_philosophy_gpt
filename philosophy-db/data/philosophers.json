@@ -1,6 +1,393 @@
 {
   "schema_version": "0.1.0",
   "description": "结构化人物数据：生卒年、流派归属、师承关系、代表作、核心概念。",
-  "philosophers": []
+  "philosophers": [
+    {
+      "name": "柏拉图",
+      "aliases": ["Plato"],
+      "birth_death": "约前427-前347",
+      "schools": ["古希腊哲学"],
+      "teachers": ["苏格拉底"],
+      "works": ["理想国", "斐多", "会饮"],
+      "core_concepts": ["理念论", "灵魂三分", "哲人王", "洞穴寓言"]
+    },
+    {
+      "name": "亚里士多德",
+      "aliases": ["Aristotle"],
+      "birth_death": "前384-前322",
+      "schools": ["古希腊哲学"],
+      "teachers": ["柏拉图"],
+      "works": ["形而上学", "尼各马可伦理学", "政治学"],
+      "core_concepts": ["四因说", "实体", "潜能与现实", "中道伦理"]
+    },
+    {
+      "name": "奥古斯丁",
+      "aliases": ["Augustine of Hippo"],
+      "birth_death": "354-430",
+      "schools": ["教父哲学"],
+      "teachers": [],
+      "works": ["忏悔录", "上帝之城"],
+      "core_concepts": ["恶的缺乏说", "内在时间意识", "恩典"]
+    },
+    {
+      "name": "阿奎那",
+      "aliases": ["Thomas Aquinas"],
+      "birth_death": "约1225-1274",
+      "schools": ["经院哲学"],
+      "teachers": [],
+      "works": ["神学大全", "反异教大全"],
+      "core_concepts": ["五路论证", "自然法", "信仰与理性"]
+    },
+    {
+      "name": "奥卡姆",
+      "aliases": ["William of Ockham"],
+      "birth_death": "约1287-1347",
+      "schools": ["唯名论"],
+      "teachers": [],
+      "works": ["逻辑大全"],
+      "core_concepts": ["唯名论", "奥卡姆剃刀"]
+    },
+    {
+      "name": "笛卡尔",
+      "aliases": ["Rene Descartes", "Descartes"],
+      "birth_death": "1596-1650",
+      "schools": ["理性主义"],
+      "teachers": [],
+      "works": ["谈谈方法", "第一哲学沉思集", "哲学原理"],
+      "core_concepts": ["方法论怀疑", "我思故我在", "心物二元论", "清楚分明观念"]
+    },
+    {
+      "name": "斯宾诺莎",
+      "aliases": ["Baruch Spinoza", "Spinoza"],
+      "birth_death": "1632-1677",
+      "schools": ["理性主义"],
+      "teachers": [],
+      "works": ["伦理学", "神学政治论"],
+      "core_concepts": ["实体一元论", "神即自然", "几何学方法"]
+    },
+    {
+      "name": "莱布尼茨",
+      "aliases": ["Gottfried Wilhelm Leibniz", "Leibniz"],
+      "birth_death": "1646-1716",
+      "schools": ["理性主义"],
+      "teachers": [],
+      "works": ["单子论", "神义论", "莱布尼茨-克拉克通信"],
+      "core_concepts": ["单子", "前定和谐", "充足理由律"]
+    },
+    {
+      "name": "霍布斯",
+      "aliases": ["Thomas Hobbes"],
+      "birth_death": "1588-1679",
+      "schools": ["经验主义", "社会契约论"],
+      "teachers": [],
+      "works": ["利维坦"],
+      "core_concepts": ["自然状态", "社会契约", "主权"]
+    },
+    {
+      "name": "洛克",
+      "aliases": ["John Locke"],
+      "birth_death": "1632-1704",
+      "schools": ["经验主义", "自由主义"],
+      "teachers": [],
+      "works": ["人类理智论", "政府论"],
+      "core_concepts": ["白板说", "观念论", "财产权", "同意"]
+    },
+    {
+      "name": "贝克莱",
+      "aliases": ["George Berkeley"],
+      "birth_death": "1685-1753",
+      "schools": ["经验主义"],
+      "teachers": [],
+      "works": ["人类知识原理", "海拉斯和斐洛诺斯的三篇对话"],
+      "core_concepts": ["存在即被感知", "非物质主义"]
+    },
+    {
+      "name": "休谟",
+      "aliases": ["David Hume"],
+      "birth_death": "1711-1776",
+      "schools": ["经验主义", "苏格兰启蒙运动"],
+      "teachers": [],
+      "works": ["人性论", "人类理解研究", "道德原则研究"],
+      "core_concepts": ["因果怀疑论", "归纳问题", "休谟之叉", "道德情感论"]
+    },
+    {
+      "name": "伏尔泰",
+      "aliases": ["Voltaire"],
+      "birth_death": "1694-1778",
+      "schools": ["法国启蒙运动"],
+      "teachers": [],
+      "works": ["哲学通信", "论宽容"],
+      "core_concepts": ["宗教宽容", "反教权主义"]
+    },
+    {
+      "name": "孟德斯鸠",
+      "aliases": ["Montesquieu"],
+      "birth_death": "1689-1755",
+      "schools": ["法国启蒙运动", "自由主义"],
+      "teachers": [],
+      "works": ["论法的精神", "波斯人信札"],
+      "core_concepts": ["权力制衡", "政体分类", "法的精神"]
+    },
+    {
+      "name": "狄德罗",
+      "aliases": ["Denis Diderot"],
+      "birth_death": "1713-1784",
+      "schools": ["法国启蒙运动", "唯物主义"],
+      "teachers": [],
+      "works": ["百科全书", "达朗贝尔的梦"],
+      "core_concepts": ["知识民主化", "唯物主义"]
+    },
+    {
+      "name": "卢梭",
+      "aliases": ["Jean-Jacques Rousseau", "Rousseau"],
+      "birth_death": "1712-1778",
+      "schools": ["法国启蒙运动", "社会契约论"],
+      "teachers": [],
+      "works": ["社会契约论", "论人类不平等的起源", "爱弥儿"],
+      "core_concepts": ["公意", "自然状态", "文明批判"]
+    },
+    {
+      "name": "亚当·斯密",
+      "aliases": ["Adam Smith"],
+      "birth_death": "1723-1790",
+      "schools": ["苏格兰启蒙运动"],
+      "teachers": [],
+      "works": ["道德情感论", "国富论"],
+      "core_concepts": ["同情", "旁观者", "商业社会"]
+    },
+    {
+      "name": "康德",
+      "aliases": ["Immanuel Kant", "Kant"],
+      "birth_death": "1724-1804",
+      "schools": ["德国启蒙运动", "德国唯心主义"],
+      "teachers": [],
+      "works": ["纯粹理性批判", "实践理性批判", "判断力批判", "什么是启蒙"],
+      "core_concepts": ["先验综合判断", "范畴", "物自体", "自律", "公开运用理性"]
+    },
+    {
+      "name": "黑格尔",
+      "aliases": ["G. W. F. Hegel", "Hegel"],
+      "birth_death": "1770-1831",
+      "schools": ["德国唯心主义"],
+      "teachers": [],
+      "works": ["精神现象学", "逻辑学", "法哲学原理"],
+      "core_concepts": ["辩证法", "主奴关系", "绝对精神", "扬弃"]
+    },
+    {
+      "name": "克尔凯郭尔",
+      "aliases": ["Soren Kierkegaard", "Kierkegaard"],
+      "birth_death": "1813-1855",
+      "schools": ["存在主义先驱"],
+      "teachers": [],
+      "works": ["非此即彼", "恐惧与战栗", "哲学片断"],
+      "core_concepts": ["主体性真理", "生存境界", "信仰跳跃"]
+    },
+    {
+      "name": "尼采",
+      "aliases": ["Friedrich Nietzsche", "Nietzsche"],
+      "birth_death": "1844-1900",
+      "schools": ["存在主义先驱", "后结构主义影响源"],
+      "teachers": [],
+      "works": ["悲剧的诞生", "查拉图斯特拉如是说", "善恶的彼岸", "道德谱系学"],
+      "core_concepts": ["透视主义", "权力意志", "上帝已死", "奴隶道德"]
+    },
+    {
+      "name": "马克思",
+      "aliases": ["Karl Marx"],
+      "birth_death": "1818-1883",
+      "schools": ["马克思主义"],
+      "teachers": [],
+      "works": ["1844年经济学哲学手稿", "关于费尔巴哈的提纲", "德意志意识形态", "资本论"],
+      "core_concepts": ["历史唯物主义", "异化", "阶级斗争", "实践"]
+    },
+    {
+      "name": "费尔巴哈",
+      "aliases": ["Ludwig Feuerbach"],
+      "birth_death": "1804-1872",
+      "schools": ["费尔巴哈人本学唯物主义"],
+      "teachers": [],
+      "works": ["基督教的本质"],
+      "core_concepts": ["人本学唯物主义", "宗教异化", "感性对象性"]
+    },
+    {
+      "name": "胡塞尔",
+      "aliases": ["Edmund Husserl"],
+      "birth_death": "1859-1938",
+      "schools": ["现象学"],
+      "teachers": [],
+      "works": ["逻辑研究", "观念I", "欧洲科学的危机"],
+      "core_concepts": ["意向性", "现象学还原", "悬置", "生活世界"]
+    },
+    {
+      "name": "海德格尔",
+      "aliases": ["Martin Heidegger"],
+      "birth_death": "1889-1976",
+      "schools": ["现象学", "存在主义"],
+      "teachers": ["胡塞尔"],
+      "works": ["存在与时间", "形而上学导论"],
+      "core_concepts": ["此在", "在世存在", "存在遗忘", "向死而在"]
+    },
+    {
+      "name": "萨特",
+      "aliases": ["Jean-Paul Sartre"],
+      "birth_death": "1905-1980",
+      "schools": ["存在主义"],
+      "teachers": [],
+      "works": ["存在与虚无", "存在主义是一种人道主义"],
+      "core_concepts": ["存在先于本质", "自由", "责任", "自欺"]
+    },
+    {
+      "name": "波伏娃",
+      "aliases": ["Simone de Beauvoir"],
+      "birth_death": "1908-1986",
+      "schools": ["存在主义", "女性主义哲学"],
+      "teachers": [],
+      "works": ["第二性"],
+      "core_concepts": ["他者", "处境", "女性生成"]
+    },
+    {
+      "name": "弗雷格",
+      "aliases": ["Gottlob Frege"],
+      "birth_death": "1848-1925",
+      "schools": ["分析哲学"],
+      "teachers": [],
+      "works": ["概念文字", "论意义和指称"],
+      "core_concepts": ["意义与指称", "逻辑主义"]
+    },
+    {
+      "name": "罗素",
+      "aliases": ["Bertrand Russell"],
+      "birth_death": "1872-1970",
+      "schools": ["分析哲学"],
+      "teachers": [],
+      "works": ["数学原则", "论指称", "逻辑原子主义哲学"],
+      "core_concepts": ["摹状词理论", "逻辑原子主义", "罗素悖论"]
+    },
+    {
+      "name": "维特根斯坦",
+      "aliases": ["Ludwig Wittgenstein"],
+      "birth_death": "1889-1951",
+      "schools": ["分析哲学", "语言哲学"],
+      "teachers": ["罗素"],
+      "works": ["逻辑哲学论", "哲学研究"],
+      "core_concepts": ["图像论", "语言游戏", "家族相似"]
+    },
+    {
+      "name": "奎因",
+      "aliases": ["W. V. O. Quine", "Quine"],
+      "birth_death": "1908-2000",
+      "schools": ["后分析哲学"],
+      "teachers": [],
+      "works": ["经验论的两个教条", "词与物"],
+      "core_concepts": ["整体论", "分析-综合区分批判", "翻译不确定性"]
+    },
+    {
+      "name": "波普尔",
+      "aliases": ["Karl Popper"],
+      "birth_death": "1902-1994",
+      "schools": ["科学哲学"],
+      "teachers": [],
+      "works": ["科学发现的逻辑", "猜想与反驳"],
+      "core_concepts": ["可证伪性", "批判理性主义"]
+    },
+    {
+      "name": "库恩",
+      "aliases": ["Thomas Kuhn"],
+      "birth_death": "1922-1996",
+      "schools": ["科学哲学"],
+      "teachers": [],
+      "works": ["科学革命的结构"],
+      "core_concepts": ["范式", "常规科学", "不可通约性"]
+    },
+    {
+      "name": "霍克海默",
+      "aliases": ["Max Horkheimer"],
+      "birth_death": "1895-1973",
+      "schools": ["法兰克福学派"],
+      "teachers": [],
+      "works": ["启蒙辩证法", "传统理论与批判理论"],
+      "core_concepts": ["工具理性", "批判理论"]
+    },
+    {
+      "name": "阿多诺",
+      "aliases": ["Theodor W. Adorno"],
+      "birth_death": "1903-1969",
+      "schools": ["法兰克福学派"],
+      "teachers": [],
+      "works": ["启蒙辩证法", "否定辩证法", "美学理论"],
+      "core_concepts": ["文化工业", "否定辩证法", "同一性批判"]
+    },
+    {
+      "name": "哈贝马斯",
+      "aliases": ["Jurgen Habermas"],
+      "birth_death": "1929-",
+      "schools": ["批判理论"],
+      "teachers": [],
+      "works": ["交往行为理论", "公共领域的结构转型"],
+      "core_concepts": ["交往理性", "公共领域", "话语伦理"]
+    },
+    {
+      "name": "索绪尔",
+      "aliases": ["Ferdinand de Saussure"],
+      "birth_death": "1857-1913",
+      "schools": ["结构主义"],
+      "teachers": [],
+      "works": ["普通语言学教程"],
+      "core_concepts": ["能指", "所指", "符号任意性", "共时与历时"]
+    },
+    {
+      "name": "福柯",
+      "aliases": ["Michel Foucault"],
+      "birth_death": "1926-1984",
+      "schools": ["后结构主义"],
+      "teachers": [],
+      "works": ["词与物", "规训与惩罚", "性史"],
+      "core_concepts": ["知识/权力", "话语", "谱系学"]
+    },
+    {
+      "name": "德里达",
+      "aliases": ["Jacques Derrida"],
+      "birth_death": "1930-2004",
+      "schools": ["后结构主义"],
+      "teachers": [],
+      "works": ["论文字学", "书写与差异"],
+      "core_concepts": ["解构", "延异", "在场形而上学批判"]
+    },
+    {
+      "name": "利奥塔",
+      "aliases": ["Jean-Francois Lyotard"],
+      "birth_death": "1924-1998",
+      "schools": ["后现代主义"],
+      "teachers": [],
+      "works": ["后现代状况"],
+      "core_concepts": ["元叙事", "知识合法性"]
+    },
+    {
+      "name": "罗尔斯",
+      "aliases": ["John Rawls"],
+      "birth_death": "1921-2002",
+      "schools": ["当代政治哲学", "自由主义"],
+      "teachers": [],
+      "works": ["正义论", "政治自由主义"],
+      "core_concepts": ["原初状态", "无知之幕", "差异原则"]
+    },
+    {
+      "name": "诺齐克",
+      "aliases": ["Robert Nozick"],
+      "birth_death": "1938-2002",
+      "schools": ["当代政治哲学", "自由至上主义"],
+      "teachers": [],
+      "works": ["无政府、国家与乌托邦"],
+      "core_concepts": ["权利理论", "持有正义", "最小国家"]
+    },
+    {
+      "name": "麦金太尔",
+      "aliases": ["Alasdair MacIntyre"],
+      "birth_death": "1929-",
+      "schools": ["当代政治哲学", "社群主义"],
+      "teachers": [],
+      "works": ["追寻美德"],
+      "core_concepts": ["实践", "传统", "德性伦理复兴"]
+    }
+  ]
 }
-
