@@ -273,13 +273,33 @@
       "criticized_by": ["存在主义先驱", "马克思主义", "批判理论"]
     },
     {
+      "name": "浪漫主义",
+      "aliases": ["Romanticism"],
+      "period": "18世纪末-19世纪前期",
+      "core_claims": ["反对启蒙普遍理性对个体性、历史性、民族语言和情感经验的压平", "强调创造力、断片、反讽、生命整体和文化独特性"],
+      "representatives": ["赫尔德", "弗里德里希·施莱格尔", "奥古斯特·施莱格尔"],
+      "influences": ["存在主义先驱", "解释学", "民族文化理论"],
+      "criticizes": ["德国启蒙运动", "法国启蒙运动"],
+      "criticized_by": ["德国唯心主义", "实证主义"]
+    },
+    {
+      "name": "唯意志论",
+      "aliases": ["Voluntarism"],
+      "period": "19世纪",
+      "core_claims": ["世界的根本不是理性精神而是盲目、非理性的意志冲动", "表象世界受主体形式组织，但其深层本质表现为欲求和痛苦"],
+      "representatives": ["叔本华"],
+      "influences": ["存在主义先驱", "尼采哲学", "精神分析"],
+      "criticizes": ["德国唯心主义", "黑格尔哲学"],
+      "criticized_by": ["存在主义先驱"]
+    },
+    {
       "name": "存在主义先驱",
       "aliases": ["Existentialism precursors"],
       "period": "19世纪",
       "core_claims": ["从具体个体、意志、焦虑、价值创造和生存选择出发反对封闭体系"],
       "representatives": ["克尔凯郭尔", "尼采"],
       "influences": ["存在主义", "后结构主义"],
-      "criticizes": ["德国唯心主义", "理性主义传统", "基督教道德"],
+      "criticizes": ["德国唯心主义", "理性主义传统", "基督教道德", "唯意志论"],
       "criticized_by": []
     },
     {

@@ -399,6 +399,42 @@
       "core_concepts": ["辩证法", "主奴关系", "绝对精神", "扬弃"]
     },
     {
+      "name": "赫尔德",
+      "aliases": ["Johann Gottfried Herder"],
+      "birth_death": "1744-1803",
+      "schools": ["浪漫主义"],
+      "teachers": [],
+      "works": ["论语言的起源", "人类历史哲学观念"],
+      "core_concepts": ["民族精神", "历史个体性", "语言与文化"]
+    },
+    {
+      "name": "弗里德里希·施莱格尔",
+      "aliases": ["Friedrich Schlegel"],
+      "birth_death": "1772-1829",
+      "schools": ["浪漫主义"],
+      "teachers": [],
+      "works": ["雅典娜神殿断片", "卢琴德"],
+      "core_concepts": ["浪漫反讽", "断片", "无限趋近"]
+    },
+    {
+      "name": "奥古斯特·施莱格尔",
+      "aliases": ["August Wilhelm Schlegel"],
+      "birth_death": "1767-1845",
+      "schools": ["浪漫主义"],
+      "teachers": [],
+      "works": ["论戏剧艺术与文学"],
+      "core_concepts": ["浪漫文学", "翻译", "比较文学"]
+    },
+    {
+      "name": "叔本华",
+      "aliases": ["Arthur Schopenhauer"],
+      "birth_death": "1788-1860",
+      "schools": ["唯意志论"],
+      "teachers": ["康德"],
+      "works": ["作为意志和表象的世界"],
+      "core_concepts": ["意志", "表象", "悲观主义", "审美解脱"]
+    },
+    {
       "name": "克尔凯郭尔",
       "aliases": ["Soren Kierkegaard", "Kierkegaard"],
       "birth_death": "1813-1855",
