@@ -3,6 +3,56 @@
   "description": "结构化流派数据：起止时间、核心主张、代表人物、后续影响、批判关系。",
   "schools": [
     {
+      "name": "前苏格拉底哲学",
+      "aliases": ["Presocratic philosophy"],
+      "period": "约前6世纪-前5世纪",
+      "core_claims": ["以自然本原、变化、存在和秩序解释世界", "从神话叙事转向理性论证和概念区分"],
+      "representatives": ["泰勒斯", "阿那克西曼德", "赫拉克利特", "巴门尼德", "德谟克利特"],
+      "influences": ["古希腊哲学", "原子论"],
+      "criticizes": ["神话解释"],
+      "criticized_by": ["苏格拉底伦理转向", "柏拉图主义", "亚里士多德主义"]
+    },
+    {
+      "name": "米利都学派",
+      "aliases": ["Milesian school"],
+      "period": "约前6世纪",
+      "core_claims": ["寻找自然世界的统一本原，以自然过程解释宇宙生成"],
+      "representatives": ["泰勒斯", "阿那克西曼德"],
+      "influences": ["前苏格拉底哲学"],
+      "criticizes": ["神话解释"],
+      "criticized_by": []
+    },
+    {
+      "name": "爱利亚学派",
+      "aliases": ["Eleatic school"],
+      "period": "约前5世纪",
+      "core_claims": ["强调存在的一、不生不灭和不可分割，怀疑感官所呈现的变化"],
+      "representatives": ["巴门尼德"],
+      "influences": ["柏拉图主义"],
+      "criticizes": ["感官经验"],
+      "criticized_by": ["亚里士多德主义"]
+    },
+    {
+      "name": "原子论",
+      "aliases": ["Atomism"],
+      "period": "约前5世纪起",
+      "core_claims": ["万物由不可分割的原子和虚空构成，变化是原子组合与分离"],
+      "representatives": ["德谟克利特", "伊壁鸠鲁"],
+      "influences": ["伊壁鸠鲁派", "近代机械论"],
+      "criticizes": ["爱利亚学派"],
+      "criticized_by": ["柏拉图主义", "亚里士多德主义"]
+    },
+    {
+      "name": "智者派",
+      "aliases": ["Sophists"],
+      "period": "前5世纪",
+      "core_claims": ["强调修辞、城邦教育、习俗差异和实践成功", "部分智者呈现相对主义倾向"],
+      "representatives": ["普罗泰戈拉"],
+      "influences": ["古希腊政治思想"],
+      "criticizes": ["传统贵族德性"],
+      "criticized_by": ["苏格拉底", "柏拉图"]
+    },
+    {
       "name": "古希腊哲学",
       "aliases": ["古代哲学"],
       "period": "约前6世纪-公元3世纪",
@@ -11,6 +61,66 @@
       "influences": ["教父哲学", "经院哲学", "德国唯心主义"],
       "criticizes": [],
       "criticized_by": ["基督教神学", "近代自然科学"]
+    },
+    {
+      "name": "柏拉图主义",
+      "aliases": ["Platonism"],
+      "period": "前4世纪起",
+      "core_claims": ["可知世界的稳定形式或理念比感官对象更真实", "哲学通过辩证法转向善、真和正义的根据"],
+      "representatives": ["柏拉图"],
+      "influences": ["新柏拉图主义", "教父哲学", "德国唯心主义"],
+      "criticizes": ["智者派", "原子论"],
+      "criticized_by": ["亚里士多德主义"]
+    },
+    {
+      "name": "亚里士多德主义",
+      "aliases": ["Aristotelianism"],
+      "period": "前4世纪起",
+      "core_claims": ["形式存在于具体实体之中，哲学应解释实体、原因、变化和目的", "伦理学以德性养成和幸福生活为中心"],
+      "representatives": ["亚里士多德"],
+      "influences": ["经院哲学", "德性伦理"],
+      "criticizes": ["柏拉图主义"],
+      "criticized_by": ["近代机械论"]
+    },
+    {
+      "name": "斯多葛派",
+      "aliases": ["Stoicism"],
+      "period": "前3世纪起",
+      "core_claims": ["宇宙由理性逻各斯贯通，德性是唯一真正的善，人应顺应自然并训练情感"],
+      "representatives": ["芝诺"],
+      "influences": ["罗马伦理学", "自然法传统"],
+      "criticizes": ["伊壁鸠鲁派"],
+      "criticized_by": ["怀疑派"]
+    },
+    {
+      "name": "伊壁鸠鲁派",
+      "aliases": ["Epicureanism"],
+      "period": "前3世纪起",
+      "core_claims": ["哲学应消除恐惧并达成无扰，快乐是善但以节制、友爱和心灵安宁为核心"],
+      "representatives": ["伊壁鸠鲁"],
+      "influences": ["近代唯物主义"],
+      "criticizes": ["宿命论", "宗教恐惧"],
+      "criticized_by": ["斯多葛派", "基督教神学"]
+    },
+    {
+      "name": "怀疑派",
+      "aliases": ["Skepticism", "Pyrrhonism"],
+      "period": "前3世纪起",
+      "core_claims": ["面对相互冲突的论证悬置判断，以避免独断并获得心灵平静"],
+      "representatives": ["皮浪"],
+      "influences": ["近代怀疑论", "经验主义"],
+      "criticizes": ["斯多葛派", "柏拉图主义", "亚里士多德主义"],
+      "criticized_by": []
+    },
+    {
+      "name": "新柏拉图主义",
+      "aliases": ["Neoplatonism"],
+      "period": "3-6世纪",
+      "core_claims": ["万有由超越的一流溢而出，并通过理智、灵魂和修行回归其源头"],
+      "representatives": ["普罗提诺"],
+      "influences": ["教父哲学", "中世纪神秘主义"],
+      "criticizes": ["机械唯物论"],
+      "criticized_by": ["亚里士多德主义", "近代哲学"]
     },
     {
       "name": "教父哲学",

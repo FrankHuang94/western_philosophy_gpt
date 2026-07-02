@@ -3,6 +3,69 @@
   "description": "结构化人物数据：生卒年、流派归属、师承关系、代表作、核心概念。",
   "philosophers": [
     {
+      "name": "泰勒斯",
+      "aliases": ["Thales"],
+      "birth_death": "约前624-前546",
+      "schools": ["前苏格拉底哲学", "米利都学派"],
+      "teachers": [],
+      "works": [],
+      "core_concepts": ["水本原说", "自然解释"]
+    },
+    {
+      "name": "阿那克西曼德",
+      "aliases": ["Anaximander"],
+      "birth_death": "约前610-前546",
+      "schools": ["前苏格拉底哲学", "米利都学派"],
+      "teachers": [],
+      "works": [],
+      "core_concepts": ["无定者", "本原"]
+    },
+    {
+      "name": "赫拉克利特",
+      "aliases": ["Heraclitus"],
+      "birth_death": "约前540-前480",
+      "schools": ["前苏格拉底哲学"],
+      "teachers": [],
+      "works": [],
+      "core_concepts": ["流变", "逻各斯", "对立统一"]
+    },
+    {
+      "name": "巴门尼德",
+      "aliases": ["Parmenides"],
+      "birth_death": "约前515-前450",
+      "schools": ["前苏格拉底哲学", "爱利亚学派"],
+      "teachers": [],
+      "works": ["论自然"],
+      "core_concepts": ["存在", "存在不变", "意见之路"]
+    },
+    {
+      "name": "德谟克利特",
+      "aliases": ["Democritus"],
+      "birth_death": "约前460-前370",
+      "schools": ["前苏格拉底哲学", "原子论"],
+      "teachers": [],
+      "works": [],
+      "core_concepts": ["原子", "虚空", "机械解释"]
+    },
+    {
+      "name": "普罗泰戈拉",
+      "aliases": ["Protagoras"],
+      "birth_death": "约前490-前420",
+      "schools": ["智者派"],
+      "teachers": [],
+      "works": [],
+      "core_concepts": ["人是万物的尺度", "相对主义"]
+    },
+    {
+      "name": "苏格拉底",
+      "aliases": ["Socrates"],
+      "birth_death": "前469-前399",
+      "schools": ["古希腊哲学"],
+      "teachers": [],
+      "works": [],
+      "core_concepts": ["辩证法", "无知之知", "德性即知识", "灵魂照料"]
+    },
+    {
       "name": "柏拉图",
       "aliases": ["Plato"],
       "birth_death": "约前427-前347",
@@ -19,6 +82,42 @@
       "teachers": ["柏拉图"],
       "works": ["形而上学", "尼各马可伦理学", "政治学"],
       "core_concepts": ["四因说", "实体", "潜能与现实", "中道伦理"]
+    },
+    {
+      "name": "伊壁鸠鲁",
+      "aliases": ["Epicurus"],
+      "birth_death": "前341-前270",
+      "schools": ["伊壁鸠鲁派"],
+      "teachers": [],
+      "works": ["致美诺寇的信"],
+      "core_concepts": ["快乐主义", "原子论伦理学", "无扰"]
+    },
+    {
+      "name": "芝诺",
+      "aliases": ["Zeno of Citium"],
+      "birth_death": "约前334-前262",
+      "schools": ["斯多葛派"],
+      "teachers": [],
+      "works": [],
+      "core_concepts": ["顺应自然", "逻各斯", "德性自足"]
+    },
+    {
+      "name": "皮浪",
+      "aliases": ["Pyrrho"],
+      "birth_death": "约前360-前270",
+      "schools": ["怀疑派"],
+      "teachers": [],
+      "works": [],
+      "core_concepts": ["悬置判断", "无扰"]
+    },
+    {
+      "name": "普罗提诺",
+      "aliases": ["Plotinus"],
+      "birth_death": "204/205-270",
+      "schools": ["新柏拉图主义"],
+      "teachers": [],
+      "works": ["九章集"],
+      "core_concepts": ["太一", "流溢", "回归"]
     },
     {
       "name": "奥古斯丁",
