@@ -849,6 +849,15 @@
       "core_concepts": ["元叙事", "知识合法性"]
     },
     {
+      "name": "鲍德里亚",
+      "aliases": ["Jean Baudrillard"],
+      "birth_death": "1929-2007",
+      "schools": ["后现代主义"],
+      "teachers": [],
+      "works": ["消费社会", "拟像与仿真"],
+      "core_concepts": ["拟像", "超真实", "消费符号", "仿真"]
+    },
+    {
       "name": "罗尔斯",
       "aliases": ["John Rawls"],
       "birth_death": "1921-2002",
