@@ -358,9 +358,59 @@
       "period": "20世纪",
       "core_claims": ["人的存在先于固定本质", "自由、责任、处境和荒诞构成现代主体的核心经验"],
       "representatives": ["萨特", "波伏娃"],
-      "influences": ["女性主义哲学", "政治哲学"],
-      "criticizes": ["体系哲学", "本质主义"],
-      "criticized_by": ["结构主义", "后结构主义"]
+      "influences": ["女性主义哲学", "政治哲学", "荒诞哲学"],
+      "criticizes": ["体系哲学", "本质主义", "现象学"],
+      "criticized_by": ["结构主义", "后结构主义", "荒诞哲学"]
+    },
+    {
+      "name": "荒诞哲学",
+      "aliases": ["Absurdism"],
+      "period": "20世纪中期",
+      "core_claims": ["荒诞来自人追求意义的要求与世界沉默之间的张力", "清醒反抗优先于体系化救赎或历史必然性"],
+      "representatives": ["加缪"],
+      "influences": ["存在主义", "文学哲学"],
+      "criticizes": ["存在主义", "历史决定论"],
+      "criticized_by": []
+    },
+    {
+      "name": "身体现象学",
+      "aliases": ["Embodied phenomenology"],
+      "period": "20世纪中期",
+      "core_claims": ["身体不是意识拥有的对象，而是世界显现和行动可能性的主体条件", "知觉先于抽象判断并嵌入具体处境"],
+      "representatives": ["梅洛-庞蒂"],
+      "influences": ["认知科学", "女性主义哲学", "后结构主义"],
+      "criticizes": ["存在主义", "现象学"],
+      "criticized_by": []
+    },
+    {
+      "name": "解释学",
+      "aliases": ["Hermeneutics"],
+      "period": "19世纪末-20世纪",
+      "core_claims": ["理解是历史生命、语言传统和解释者视域中的事件", "人文科学不能完全归约为自然科学式说明"],
+      "representatives": ["狄尔泰", "伽达默尔"],
+      "influences": ["现象学", "后结构主义", "文化研究"],
+      "criticizes": ["实证主义", "自然主义"],
+      "criticized_by": ["批判理论", "后结构主义"]
+    },
+    {
+      "name": "心理主义",
+      "aliases": ["Psychologism"],
+      "period": "19世纪",
+      "core_claims": ["把逻辑、意义或规范有效性解释为心理事实或心理过程"],
+      "representatives": [],
+      "influences": [],
+      "criticizes": [],
+      "criticized_by": ["现象学", "分析哲学"]
+    },
+    {
+      "name": "自然主义",
+      "aliases": ["Naturalism"],
+      "period": "19世纪以来",
+      "core_claims": ["倾向于以自然科学事实和因果说明解释意识、意义和社会现象"],
+      "representatives": [],
+      "influences": ["实证主义"],
+      "criticizes": ["传统形而上学"],
+      "criticized_by": ["现象学", "解释学"]
     },
     {
       "name": "分析哲学",

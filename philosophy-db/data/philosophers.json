@@ -552,6 +552,42 @@
       "core_concepts": ["他者", "处境", "女性生成"]
     },
     {
+      "name": "加缪",
+      "aliases": ["Albert Camus"],
+      "birth_death": "1913-1960",
+      "schools": ["荒诞哲学"],
+      "teachers": [],
+      "works": ["局外人", "西西弗神话", "反抗者"],
+      "core_concepts": ["荒诞", "反抗", "限度", "清醒"]
+    },
+    {
+      "name": "梅洛-庞蒂",
+      "aliases": ["Maurice Merleau-Ponty"],
+      "birth_death": "1908-1961",
+      "schools": ["身体现象学", "现象学"],
+      "teachers": [],
+      "works": ["知觉现象学"],
+      "core_concepts": ["身体主体", "知觉", "肉身", "交错"]
+    },
+    {
+      "name": "狄尔泰",
+      "aliases": ["Wilhelm Dilthey"],
+      "birth_death": "1833-1911",
+      "schools": ["解释学"],
+      "teachers": [],
+      "works": ["精神科学导论"],
+      "core_concepts": ["体验", "理解", "精神科学", "历史生命"]
+    },
+    {
+      "name": "伽达默尔",
+      "aliases": ["Hans-Georg Gadamer"],
+      "birth_death": "1900-2002",
+      "schools": ["解释学"],
+      "teachers": ["海德格尔"],
+      "works": ["真理与方法"],
+      "core_concepts": ["视域融合", "效果历史", "传统", "应用"]
+    },
+    {
       "name": "弗雷格",
       "aliases": ["Gottlob Frege"],
       "birth_death": "1848-1925",
