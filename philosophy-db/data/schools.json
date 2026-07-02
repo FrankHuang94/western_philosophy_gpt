@@ -537,7 +537,7 @@
       "aliases": ["法兰克福学派", "Critical Theory"],
       "period": "20世纪",
       "core_claims": ["哲学与社会理论应批判支配、意识形态和工具理性", "启蒙理性自身也可能转化为统治形式"],
-      "representatives": ["霍克海默", "阿多诺", "哈贝马斯"],
+      "representatives": ["霍克海默", "阿多诺", "本雅明", "马尔库塞", "哈贝马斯"],
       "influences": ["社会理论", "文化研究", "政治哲学"],
       "criticizes": ["法国启蒙运动", "工具理性", "资本主义文化工业"],
       "criticized_by": ["哈贝马斯交往理性"]
@@ -581,6 +581,16 @@
       "influences": ["法哲学", "公共政策伦理"],
       "criticizes": ["功利主义"],
       "criticized_by": ["自由至上主义", "社群主义", "女性主义哲学"]
+    },
+    {
+      "name": "自由主义",
+      "aliases": ["Liberalism"],
+      "period": "近代以来",
+      "core_claims": ["强调个人自由、权利、法治和有限政府", "现代版本围绕自由、平等和正义原则展开"],
+      "representatives": ["洛克", "密尔", "罗尔斯"],
+      "influences": ["当代政治哲学"],
+      "criticizes": ["专制主义"],
+      "criticized_by": ["马克思主义", "批判理论", "社群主义"]
     },
     {
       "name": "功利主义",
