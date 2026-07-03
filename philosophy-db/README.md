@@ -2,7 +2,7 @@
 
 本项目面向哲学与社会科学研究生，目标是从思想史、流派谱系、概念演化与跨流派批判关系四个层面，构建一个可阅读、可导航、可校验的西方哲学知识库。
 
-正文目标总量不少于 150,000 中文字，计划内容约 178,000 中文字。启蒙运动及之后章节 `04-enlightenment` 至 `14-political-phil` 是核心部分，目标篇幅不少于全书正文的 70%。
+正文目标总量不少于 150,000 中文字，当前统计为 182,031 中文字。启蒙运动及之后章节 `04-enlightenment` 至 `14-political-phil` 是核心部分，并构成全书主体。
 
 ## 目录结构
 
@@ -73,9 +73,34 @@ python3 scripts/build_index.py
 - [x] 初始化目录结构
 - [x] 初始化数据文件 schema
 - [x] 初始化脚本骨架
-- [ ] 编写 `00-overview`
-- [ ] 编写 `01-ancient` 至 `14-political-phil`
-- [ ] 编写 `15-cross-cutting`
-- [ ] 编写附录
-- [ ] 达到 150,000 中文字正文目标
+- [x] 编写 `00-overview`
+- [x] 编写 `01-ancient` 至 `14-political-phil`
+- [x] 编写 `15-cross-cutting`
+- [x] 编写附录
+- [x] 达到 150,000 中文字正文目标
 
+## 最终统计
+
+最近一次 `scripts/word_count.py` 统计结果：
+
+| 目录 | 中文字数 |
+| --- | ---: |
+| `00-overview` | 5,779 |
+| `01-ancient` | 12,003 |
+| `02-medieval` | 8,001 |
+| `03-early-modern` | 15,000 |
+| `04-enlightenment` | 25,000 |
+| `05-german-idealism` | 15,001 |
+| `06-post-kantian` | 12,007 |
+| `07-19th-century` | 12,000 |
+| `08-phenomenology` | 15,111 |
+| `09-analytic` | 15,000 |
+| `10-pragmatism` | 6,000 |
+| `11-critical-theory` | 8,075 |
+| `12-structuralism` | 8,000 |
+| `13-postmodern` | 6,000 |
+| `14-political-phil` | 8,000 |
+| `15-cross-cutting` | 6,000 |
+| `appendix` | 5,054 |
+
+总计：182,031 中文字。
