@@ -587,7 +587,7 @@
       "aliases": ["Contemporary political philosophy"],
       "period": "20世纪后期起",
       "core_claims": ["围绕正义、权利、共同体、身份与承认重建规范政治理论"],
-      "representatives": ["罗尔斯", "诺齐克", "麦金太尔"],
+      "representatives": ["罗尔斯", "诺齐克", "麦金太尔", "桑德尔"],
       "influences": ["法哲学", "公共政策伦理"],
       "criticizes": ["功利主义"],
       "criticized_by": ["自由至上主义", "社群主义", "女性主义哲学"]
@@ -627,7 +627,7 @@
       "aliases": ["Communitarianism"],
       "period": "20世纪后期起",
       "core_claims": ["自我总是嵌入传统、实践和共同体，不能被抽象为无负荷选择者"],
-      "representatives": ["麦金太尔"],
+      "representatives": ["麦金太尔", "桑德尔"],
       "influences": ["德性伦理", "政治哲学"],
       "criticizes": ["当代政治哲学"],
       "criticized_by": []
@@ -637,7 +637,7 @@
       "aliases": ["Feminist philosophy"],
       "period": "20世纪中后期起",
       "core_claims": ["分析性别、权力、身体、处境和知识生产中的支配结构"],
-      "representatives": ["波伏娃"],
+      "representatives": ["波伏娃", "巴特勒"],
       "influences": ["政治哲学", "伦理学", "社会理论"],
       "criticizes": ["本质主义", "父权制"],
       "criticized_by": []

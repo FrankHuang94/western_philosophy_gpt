@@ -883,6 +883,24 @@
       "teachers": [],
       "works": ["追寻美德"],
       "core_concepts": ["实践", "传统", "德性伦理复兴"]
+    },
+    {
+      "name": "桑德尔",
+      "aliases": ["Michael Sandel"],
+      "birth_death": "1953-",
+      "schools": ["当代政治哲学", "社群主义"],
+      "teachers": [],
+      "works": ["自由主义与正义的局限", "公正"],
+      "core_concepts": ["无负荷自我批判", "共同善", "社群主义"]
+    },
+    {
+      "name": "巴特勒",
+      "aliases": ["Judith Butler"],
+      "birth_death": "1956-",
+      "schools": ["女性主义哲学", "后结构主义"],
+      "teachers": [],
+      "works": ["性别麻烦", "身体之重"],
+      "core_concepts": ["性别表演", "异性恋矩阵", "本质主义批判"]
     }
   ]
 }
